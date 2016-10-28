@@ -1,0 +1,19 @@
+{
+  "applicationSignIn": "false",
+  "partnerServiceApiRoot": "https://partnerapi.store.microsoft-ppe.com",
+  "defaultCustomerId": "15d883d8-61bf-4c13-a2ae-ea1f926d866b",
+  "customerWithServiceRequests": "6ffcc08f-4073-44c3-83f0-07c1d60f7274",
+  "customerServiceRequestId":  "615121092223011",
+  "defaultMpnId": "4458802",
+  "aad.authority": "https://login.windows-ppe.net/",
+  "aad.graphEndpoint": "https://graph.ppe.windows.net",
+  "aad.commonDomain": "common",
+  "aad.clientId": "c5f3b35f-71f5-444a-b62e-6f3587862568",
+  "aad.resourceUrl": "https://partnerapi.store.microsoft-ppe.com",
+  "aad.redirectUri": "http://localhost",
+  "aad.userName": "my@krishsraztest.ccsctp.net",
+  "aad.password": "Password!1",
+  "aad.applicationId": "96da0dea-20e4-4253-9c2f-63acfc4d0b3e",
+  "aad.applicationSecret": "RYpMYH6G+dxYe6AHs/Olao/OhCyz/r9I6JrHYhVqA+4=",
+  "aad.applicationDomain": "e82cac64-dc67-4cd3-849b-78b6127dd57d"
+}

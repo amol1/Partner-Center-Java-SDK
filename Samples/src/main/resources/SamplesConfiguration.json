@@ -1,0 +1,35 @@
+{
+  "PartnerServiceSettings": {
+      "PartnerServiceApiEndpoint": "https://api.partnercenter.microsoft-ppe.com",
+      "AuthenticationAuthorityEndpoint": "https://login.windows-ppe.net/",
+      "GraphEndpoint": "https://graph.ppe.windows.net",
+      "CommonDomain": "common"
+  },
+  "UserAuthentication": {
+      "ClientId": "0d992670-ef7a-44af-867d-af1910dc522a",
+      "ResourceUrl": "https://api.partnercenter.microsoft-ppe.com",
+      "RedirectUrl": "https://localhost",
+      "UserName": "admin@usaaztestywlpwvht.ccsctp.net",
+      "Password": "passw0rd!"
+  },
+  "AppAuthentication": {
+      "ApplicationId": "96da0dea-20e4-4253-9c2f-63acfc4d0b3e",
+      "ApplicationSecret": "RYpMYH6G+dxYe6AHs/Olao/OhCyz/r9I6JrHYhVqA+4=",
+      "Domain": "e82cac64-dc67-4cd3-849b-78b6127dd57d"
+  },
+  "ScenarioSettings": {
+      "CustomerDomainSuffix": "onmicrosoft.com",
+      "CustomerIdToDelete": "",
+      "DefaultCustomerId": "b5201210-6312-40cb-9ea0-41e14f31bb4e",
+      "CustomerPageSize": "100",
+      "InvoicePageSize": "100",
+      "DefaultInvoiceId": "D060002DH3",
+      "PartnerMpnId": "4458802",
+      "DefaultServiceRequestId": "616060692493169",
+      "ServiceRequestPageSize": "100",
+      "DefaultSupportTopicId": "32444667",
+      "DefaultOfferPageSize": "20",
+      "DefaultOfferId": "",
+      "DefaultSubscriptionId": ""    
+  }  
+}
